@@ -2,9 +2,7 @@
 
 This project contains an artificial intelligence application that performs object detection and segmentation using the [YOLO-World](https://docs.ultralytics.com/tr/models/yolo-world/) and [EfficientSAM](https://yformer.github.io/efficient-sam/) algorithms.
 
-https://github.com/yesillmustafa/YOLO-World-App/assets/74787246/3d7445b9-a796-49da-8595-bb25e1fc7937
-
-https://github.com/yesillmustafa/YOLO-World-App/assets/74787246/5d6a5369-a64b-43af-8c96-4e69d88f0dde
+https://github.com/yesillmustafa/YOLO-World-App/assets/74787246/658d7329-7ef1-40d2-839f-7a1eef75ed81
 
 ![dog-cat](https://github.com/yesillmustafa/YOLO-World-App/assets/74787246/ecda4933-27d0-4a13-b5c5-6473b7c5431e) 
 
