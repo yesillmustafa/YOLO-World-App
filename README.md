@@ -9,7 +9,3 @@ This project contains an artificial intelligence application that performs objec
 ![mydog](https://github.com/yesillmustafa/YOLO-World-App/assets/74787246/5d28f683-dbb6-4338-81c7-872bc14b3eb3) 
 
 ![r_mydog](https://github.com/yesillmustafa/YOLO-World-App/assets/74787246/b6128f3c-c02b-4255-8bec-48a1b98d1fac)
-
-https://github.com/yesillmustafa/YOLO-World-App/assets/74787246/25bd3648-6a2d-4696-8014-04497533f042
-
-https://github.com/yesillmustafa/YOLO-World-App/assets/74787246/4c499bea-35ec-41a0-9046-31d8d0703ee8
